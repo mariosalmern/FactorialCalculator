@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="enter_a_number_to_calculate_its_factorial">Enter a number to calculate its Factorial :</string>
+    <string name="calculate_factorial">Calculate Factorial</string>
+</resources>
